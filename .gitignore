@@ -1,0 +1,14 @@
+/tmp/*
+
+# ignore build files
+/bin/*
+
+
+
+# ignore log files
+*.log
+*.log.*
+
+# ignore vscode files
+.vscode/*
+!.vscode/.gitkeep
