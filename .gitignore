@@ -1,4 +1,6 @@
 /tmp/*
+/cmd/tmp/*
+./tmp/*
 
 # ignore build files
 /bin/*
